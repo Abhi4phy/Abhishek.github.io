@@ -12,7 +12,7 @@ title                    : "Abhishek- Portfolio"
 title_separator          : "-"
 name                     : &name "Abhishek Yadav"
 description              : &description "Computational Plasma Physics"
-url                      : https://abhi4phy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # https://abhi4phy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,7 +26,7 @@ author:
   pronouns         : "He/Him"  
   bio              : "Computational Plasma Physics"
   location         : "Mumbai"
-  employer         : "Red Brick University"
+  employer         : "UMDAE_CEBS"
   uri              : # URL
   email            : "none@example.org" 
 
